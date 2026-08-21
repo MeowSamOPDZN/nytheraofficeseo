@@ -1,0 +1,14 @@
+# Nythera
+
+Nythera is a technology and creative company building digital experiences across operating systems, television, artificial intelligence and entertainment.
+
+## Projects
+
+- Nythera Movies: https://nytheramovies.vercel.app/
+- Nythera OS (PC): https://nythera-pc.vercel.app/
+- Nythera OS (TV): https://nythera-tv.vercel.app/
+- Nythera AI: https://nytherai.vercel.app/
+
+## Topics
+
+Nythera, Nythera company, Nythera OS, Nythera OS PC, Nythera OS TV, Nythera AI, Nythera Movies, technology, artificial intelligence, operating systems, television software, digital entertainment.

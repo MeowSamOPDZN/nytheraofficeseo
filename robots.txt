@@ -1,0 +1,5 @@
+# Nythera robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://nytheraofficeseo.vercel.app/sitemap.xml
